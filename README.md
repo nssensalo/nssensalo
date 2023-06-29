@@ -1,4 +1,4 @@
-#### Hello, I'm Nansamba 👩🏾‍💻✨
+# Hello, I'm Nansamba 👩🏾‍💻✨
 ____
 
 Occupational Therapist turned Software Engineer. Fintech bootcamp grad turned self-navigator through online learning resources. Favorites are Udemy & Datacamp. Started my career at BondCliQ as a Data Engineer Apprentice. 
