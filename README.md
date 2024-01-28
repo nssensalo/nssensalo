@@ -11,7 +11,7 @@ ___
 <li>🍪 indulging in mung bean cookies</li>
 </ul>
 
-📬[LinkedIn](https://www.linkedin.com/in/nssensalo) | [Portfolio](https://www.nssensalo.github.io)
+📬[LinkedIn](https://www.linkedin.com/in/nssensalo) | [Portfolio](nssensalo.github.io)
 
 
 
