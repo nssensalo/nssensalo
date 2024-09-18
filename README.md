@@ -1,13 +1,13 @@
 # Hello, I'm Nansamba 👩🏾‍💻✨
 ____
 
-Occupational Therapist turned Software Engineer. Fintech bootcamp grad turned self-navigator through online learning resources. Favorites are Udemy & Datacamp. Started my career at BondCliQ as a Data Engineer Apprentice. 
+Occupational Therapist turned Data Engineer. Self taught with internships, volunteer projects, open source contributions. Currently exploring dbt, Snowflake, StrataScratch, and self-guided projects. Started my career at BondCliQ as a Data Engineer Intern. 
 ___
 ## 📌Projects
 <ul>
-<li>📅 studying Databricks Modules</li>
-<li>🌱 learning to build in React</li>
-<li>💃🏾 collaborating on non-profit projects</li>
+<li>📅 Studying for AWS Architect Certification</li>
+<li>🌱 Maxing out free-tiers on various platforms</li>
+<li>💃🏾 Collaborating on non-profit projects</li>
 <li>🍪 indulging in mung bean cookies</li>
 </ul>
 
