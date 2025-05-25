@@ -1,14 +1,14 @@
 # Hello, I'm Nansamba 👩🏾‍💻✨
 ____
 
-Occupational Therapist turned Data Engineer. Self taught with internships, volunteer projects, open source contributions. Currently exploring dbt, Snowflake, StrataScratch, and self-guided projects. Started my career at BondCliQ as a Data Engineer Intern. 
+Medical professional of 12 yrs turned Data Engineer. Self taught with internships, volunteer projects, and bootcamps. Currently building mini apps to explore Redux and state managment, and investigating the relation between primary key, group by statement, and window function partition in the cumulitive table design. Started my career at BondCliQ as a Junior Data Engineer. 
 ___
-## 📌Projects
+## 📌Learning
 <ul>
-<li>📅 Studying for AWS Architect Certification</li>
+<li>📅 Learning Redux and the cumulitive data pipline design</li>
 <li>🌱 Maxing out free-tiers on various platforms</li>
 <li>💃🏾 Collaborating on non-profit projects</li>
-<li>🍪 indulging in mung bean cookies</li>
+<li>🍪 Studying Mandarin and indulging in mung bean cookies</li>
 </ul>
 
 📬[LinkedIn](https://www.linkedin.com/in/nssensalo) 
